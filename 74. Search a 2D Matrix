@@ -29,3 +29,12 @@ public:
         
     }
 };
+
+
+
+
+
+
+\\Another approach to this question is :
+take the ele=matrix[mid/col][mid%col];
+
